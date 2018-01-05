@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c209ca0ee6724af9ba4b565aac16094b" Name="Diagram1">
+        <EntityTypeShape EntityType="storefeedback_androidModel.adminmaster" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.advancemaster" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.answermaster" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.chargemaster" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customercategorymaster" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customereventmaster" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customerextramaster" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customermaster" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customerproductmaster" Width="1.5" PointX="6.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.eventmaster" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.extrachargemaster" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.feedbackmaster" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.menumaster" Width="1.5" PointX="8.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.productmaster" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.questionmaster" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.remarksmaster" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.storemaster" Width="1.5" PointX="10.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.usermaster" Width="1.5" PointX="0.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.smsreceivermaster" Width="1.5" PointX="3.375" PointY="12.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customerextraproductmaster" Width="1.5" PointX="5.375" PointY="12.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.menusetupmaster" Width="1.5" PointX="7.375" PointY="12.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.website_login" Width="1.5" PointX="9.375" PointY="12.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.categorymaster" Width="1.5" PointX="11.375" PointY="12.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.badfeedbacksmsmaster" Width="1.5" PointX="13.375" PointY="0.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.feedbackcustomermaster" Width="1.5" PointX="13.375" PointY="3.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.orderstatusmaster" Width="1.5" PointX="13.375" PointY="6.75" />
+        <EntityTypeShape EntityType="storefeedback_androidModel.customerordermaster" Width="1.5" PointX="13.375" PointY="9.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
